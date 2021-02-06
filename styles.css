@@ -1,0 +1,120 @@
+body{
+    background-color:indigo;
+}
+.top{
+    text-align: center;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color:darkred;
+}
+.Überschrift{
+    font-size: 40px;
+}
+.Hyperlinks{
+    text-align: center;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 60px;
+    background-color:darksalmon;
+    display: inline-block;
+
+}
+.Hyperlinks a{
+    padding: 32px;
+}
+.Hyperlinks a:hover{
+    color:black;
+    background-color:darkviolet;
+}
+
+.imagecss{
+    width: 700px;
+    position:absolute;
+    right: 180px;
+    top: 320px;
+    border:red;
+    border: solid 5px red;
+}
+.imageHyper{
+    width:700px;
+    position: absolute;
+    left:50px;
+    top:950px;
+    border:red;
+    border: solid 5px red;
+}
+
+.imageTabelle{
+    width: 700px;
+    position:absolute;
+    right: 180px;
+    top: 1450px;
+    border:red;
+    border: solid 5px red;
+}
+
+.imageÄnderung{
+    width:500px;
+    position: absolute;
+    left:50px;
+    top:2000px;
+    border:red;
+    border: solid 5px red;
+}
+
+.imagediv{
+    width: 600px;
+    position:absolute;
+    right: 180px;
+    top: 2500px;
+    border:red;
+    border: solid 5px red;
+}
+
+#ÜÜberschrift{
+    color: lightcoral;
+    font-style: italic;
+    background-color: black;
+    display: inline-block;
+
+}
+#Websitelinkseins{
+    
+    text-align: left;
+    margin-top: 70px;
+    
+}
+
+#Websitelinkszwei{
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 1000px;
+}
+
+#Websitelinksdrei{
+    text-align: left;
+    margin-top: 70px;
+}
+
+#Websitelinksvier{
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 1000px;
+}
+
+#Websitelinksfünf{
+    text-align: left;
+    margin-top: 70px;
+}
+
+.Auflistungeins{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Auflistungzwei{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+}
